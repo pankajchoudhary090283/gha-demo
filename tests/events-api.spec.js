@@ -1,4 +1,4 @@
-// @ts-check new
+// @ts-check
 import { test, expect } from '@playwright/test';
 
 test('event creation', async ({ request }) => {
